@@ -1,0 +1,113 @@
+html{
+    font-family: 'Bitter', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Syne', sans-serif;
+}
+body{
+    background-color:whitesmoke;
+    font-size: 20px;
+}
+.container{
+    background-color:papayawhip;
+}
+.btn-success{
+    background-color: plum;
+    font-weight: bolder;
+    color:black;
+    align-items: flex-end;
+}
+.logo{
+   height: 80px;
+   margin:20px;
+   margin-top: 0px;
+   
+}
+h2{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-right: 10%;
+}
+.Titulo{
+    font-size: 25px;
+    color:grey;    
+    font-weight: bold;
+    text-align: center;
+    padding-left: 30%;
+    margin-top: 5px;
+    letter-spacing: 10px;
+}
+
+.card-img-top {
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 3%;
+    margin-bottom: 2%; 
+}
+.container-principal{
+    padding: 3%;
+    margin-left: 0px;
+}
+.btn-group{
+    padding-left: 20px;
+    padding:30px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.btn-danger{
+    background-color:palevioletred;
+    font-size: 20px;
+}
+#compra{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin: 0 10px 0 10px;
+}
+.card-price{
+    margin: 0 10px 0 10px;
+    margin-left: 30%;
+    margin-top: 3px;
+}
+.card-text{
+    margin:20%;
+    margin-top:3px;
+    margin-bottom: 5px;
+    margin-left:15%;
+   
+}
+.card-title{
+    margin:20%;
+}
+.boton{
+    margin-left: 25%;
+    margin-right: auto;
+    margin-top: 5px;
+}
+.carrito{
+    height: 80px;
+    width: 100px;
+    float:right;
+    margin:0px;
+    margin-left: 30%;
+    background-color: pink;
+}
+#comprarModal{
+    margin-right:80%
+};
+.btn-success{
+    margin-left:30%
+}
+.mb-0{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left:5%;
+    padding-bottom: 50px;
+}
+.Tienda{
+    color:#D71BB1;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 10%;
+    font-size: 30px;
+}
+
